@@ -6,7 +6,6 @@ from tkinter import ttk
 root = Tk()
 root.title("colorsim")
 root.geometry("900x600")
-# root["bg"] = "white"
 root.resizable(width=False, height=False)
 
 

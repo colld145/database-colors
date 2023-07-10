@@ -20,5 +20,5 @@ green4 170.0
 black1 200.0
 black2 500.0
 black3 420.0
-gray-fair1 200
-gray-fair2 400
+gray-fair1 250.0
+gray-fair2 400.0
